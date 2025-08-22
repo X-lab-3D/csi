@@ -9,18 +9,8 @@
 
     [Check the detailed schedule](schedule.md)
 
-    
-**Deciphering T-cell receptor (TCR) specificity** relies on understanding their three-dimensional (3D) structures. Yet, even in the post-AlphaFold era, modelling `TCR–peptide–MHC` complexes remains a **major challenge**.
+Deciphering T-cell receptor (TCR) specificity relies on understanding their three-dimensional (3D) structures. However, even in the post-AlphaFold era, modeling `TCR–peptide–MHC` complexes remains a major challenge. Together with [Johannes Textor](https://www.linkedin.com/in/johannes-textor-28b168256/), [Erik Bekkers](https://www.linkedin.com/in/erik-bekkers-ba31a396/) and [Jolanda de Vries](https://www.linkedin.com/in/jolanda-de-vries-31a54816/), our [Structural Bioinformatics Lab at Radboudumc](https://www.radboudumc.nl/en/research/research-groups/structural-bioinformatics) is proud to host the first Computational Structural Immunology Symposium, to foster interdisciplinary dialogue among experts in  **T-cell immunity**, **geometric deep learning**, and **protein structure modeling**, advancing our ability to predict T cell specificity and beyond.
 
-To address this, the [**Structural Bioinformatics Lab at Radboudumc**](https://www.radboudumc.nl/en/research/research-groups/structural-bioinformatics), in collaboration with the labs of **Johannes Textor**, **Erik Bekkers**, and **Jolanda de Vries**, is proud to host the first **Computational Structural Immunology Symposium**.
-
-**Our Mission:** Foster interdisciplinary dialogue among experts in:
-
-- 🧬 T-cell immunity
-- 🤖 Geometric deep learning
-- 🦠 Protein structure modelling
-
-**Goal:** Advancing our ability to predict T-cell specificity and beyond.
 
 ## Organisers
 
@@ -40,4 +30,3 @@ Administrative Support: **Janneke Hermens**, Radboudumc
 ## Sponsor
 
 [![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width="30%" }](https://www.esciencecenter.nl/)
-
