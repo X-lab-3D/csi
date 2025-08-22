@@ -1,10 +1,14 @@
 name: Deploy MkDocs with Mike to GitHub Pages
 
 on:
-  # Trigger the workflow on push to main branch
+  # Trigger the workflow on push to main branch when docs or mkdocs.yml changes
   push:
     branches:
       - main
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -46,5 +50,4 @@ jobs:
 
       - name: Deploy with Mike
         run: |
-          # Deploy the current version as 'latest' and set it as default
           mike deploy --push --update-aliases 2025 latest
