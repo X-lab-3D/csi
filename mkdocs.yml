@@ -9,7 +9,7 @@ theme:
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: orange
+    primary: deep orange
     accent: indigo
   #   toggle:
   #     icon: material/weather-sunny
