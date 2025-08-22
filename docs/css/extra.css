@@ -3,9 +3,17 @@
     white-space: pre-wrap;
     word-wrap: break-word;
 } */
-.md-sidebar--primary {
-    display: none !important;
+
+/* Hide primary sidebar on wide screens only */
+@media (min-width: 76.25em) {
+  .md-sidebar--primary { display: none !important; }
 }
+
+/* When the drawer opens on small screens, Material sets data-md-state="open" */
+.md-sidebar--primary[data-md-state="open"] {
+  display: block !important;
+}
+
 
 /* Enhanced table styling for schedule */
 .schedule-table {

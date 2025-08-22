@@ -28,7 +28,7 @@ theme:
     - announce.dismiss
     - navigation.tabs
     - navigation.sections
-    # - navigation.top
+    - navigation.top
     - search.highlight
     - search.suggest
   icon:
