@@ -30,3 +30,112 @@ Administrative Support: **Janneke Hermens**, Radboudumc
 ## Sponsor
 
 [![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width="30%" }](https://www.esciencecenter.nl/)
+
+## Speakers
+<div class="grid cards" markdown style="grid-template-columns: repeat(5, 1fr); gap: 1rem;">
+
+-   ![Speaker 1](images/logo.png){ width="120" }
+
+    **Speaker 1**
+
+    *Affiliation*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 2](images/logo.png){ width="120" }
+
+    **Speaker 2**
+
+    *Affiliation*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 3](images/logo.png){ width="120" }
+
+    **Speaker 3**
+
+    *Affiliation 3*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 4](images/logo.png){ width="120" }
+
+    **Speaker 4**
+
+    *Affiliation 4*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 5](images/logo.png){ width="120" }
+
+    **Speaker 5**
+
+    *Affiliation 5*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 6](images/logo.png){ width="120" }
+
+    **Speaker 6**
+
+    *Affiliation 6*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 7](images/logo.png){ width="120" }
+
+    **Speaker 7**
+
+    *Affiliation 7*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 8](images/logo.png){ width="120" }
+
+    **Speaker 8**
+
+    *Affiliation 8*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 9](images/logo.png){ width="120" }
+
+    **Speaker 9**
+
+    *Affiliation 9*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 10](images/logo.png){ width="120" }
+
+    **Speaker 10**
+
+    *Affiliation 10*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 11](images/logo.png){ width="120" }
+
+    **Speaker 11**
+
+    *Affiliation 11*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+-   ![Speaker 12](images/logo.png){ width="120" }
+
+    **Speaker 12**
+
+    *Affiliation 12*
+
+    [:material-web: Website](https://example.com) · [:material-linkedin: LinkedIn](https://linkedin.com/in/...) · [:material-github: GitHub](https://github.com/...)
+
+</div>
+
+
+## Map
+
+<iframe
+  src="https://umap.openstreetmap.fr/en/map/via-egnatia-from-kavala-harbor-to-the-east-gate-of_1270001?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"
+  width="100%" height="500" frameborder="0" allowfullscreen>
+</iframe>

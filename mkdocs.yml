@@ -78,6 +78,11 @@ markdown_extensions:
 - pymdownx.keys
 - pymdownx.snippets: # use files outside of docs folder, syntax is `--8<-- "path/to/file"`
     base_path: [.]
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- attr_list
+- md_in_html
 
 watch:
 - docs
