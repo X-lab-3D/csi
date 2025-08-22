@@ -11,16 +11,16 @@ theme:
     scheme: default
     primary: deep orange
     accent: indigo
-    toggle:
-      icon: material/weather-sunny
-      name: "Switch to dark mode"
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: deep orange
-    accent: indigo
-    toggle:
-      icon: material/weather-night
-      name: "Switch to light mode"
+  #   toggle:
+  #     icon: material/weather-sunny
+  #     name: "Switch to dark mode"
+  # - media: "(prefers-color-scheme: dark)"
+  #   scheme: slate
+  #   primary: deep orange
+  #   accent: indigo
+  #   toggle:
+  #     icon: material/weather-night
+  #     name: "Switch to light mode"
   features:
     - content.tabs.link
     - content.code.annotate
