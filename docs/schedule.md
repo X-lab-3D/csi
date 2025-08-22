@@ -169,7 +169,7 @@
 <tr>
 <td class="time-cell">13:30-14:45</td>
 <td>
-<span class="event-badge badge-invited">🎤 Geometric Deep Learning</span><strong>3 invited talks - geometric deep learning (20+5 min/talk):</strong><br><br>
+<span class="event-badge badge-invited">🎤 Invited Talks </span><strong>Geometric deep learning (20+5 min/talk):</strong><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Erik Bekkers</span> <span class="speaker-affiliation">(UvA)</span><br>
 <div class="talk-title">Equivariance and weight-sharing in neural networks without specialized modules</div>
@@ -191,7 +191,7 @@
 <tr>
 <td class="time-cell">15:15-16:30</td>
 <td>
-<span class="event-badge badge-invited">🎤 3D Modelling</span><strong>Invited talks - 3D modelling and design (20+5 min/talk):</strong><br><br>
+<span class="event-badge badge-invited">🎤 Invited Talks</span><strong>3D modelling and design (20+5 min/talk):</strong><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Monica Fernandez-Quintero</span> <span class="speaker-affiliation">(Scripps)</span><br>
 <div class="talk-title">Structure and dynamics-guided antibody design</div>
