@@ -1,0 +1,201 @@
+/* Wrap long lines in code blocks */
+/* pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+} */
+.md-sidebar--primary {
+    display: none !important;
+}
+
+/* Enhanced table styling for schedule */
+.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.schedule-table th {
+    background: linear-gradient(135deg, #ff5722, #ff7043);
+    color: white;
+    padding: 15px 20px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.1em;
+    border: none;
+}
+
+.schedule-table td {
+    padding: 12px 20px;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: top;
+}
+
+.schedule-table tr:hover {
+    background-color: #e3f2fd;
+    transition: background-color 0.3s ease;
+}
+
+/* Day overview table styling */
+.day-overview {
+    background: transparent;
+}
+
+.day-overview th {
+    background: #e3f2fd;
+    color: #1976d2;
+}
+
+.day-overview td {
+    background-color: #f5f5f5;
+    color: #333;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.day-overview tr:hover {
+    background-color: #e8e8e8;
+}
+
+/* Day links styling */
+.day-overview a {
+    color: #1976d2;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.day-overview a:hover {
+    text-decoration: underline;
+    color: #0d47a1;
+}
+
+/* Time column styling */
+.time-cell {
+    font-weight: 600;
+    color: #1976d2;
+    font-family: 'Roboto Mono', monospace;
+    min-width: 120px;
+    background-color: #f5f5f5;
+    border-right: 3px solid #ff5722;
+}
+
+/* Event type badges */
+.event-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: 500;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+.badge-invited {
+    background-color: #4caf50;
+    color: white;
+}
+
+.badge-flash {
+    background-color: #ff9800;
+    color: white;
+}
+
+.badge-break {
+    background-color: #9e9e9e;
+    color: white;
+}
+
+.badge-social {
+    background-color: #e91e63;
+    color: white;
+}
+
+.badge-register {
+    background-color: #2196f3;
+    color: white;
+}
+
+/* Speaker styling */
+.speaker-name {
+    font-weight: 600;
+    color: #1976d2;
+}
+
+.speaker-affiliation {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+}
+
+.talk-title {
+    margin-top: 4px;
+    color: #333;
+    line-height: 1.3;
+}
+
+/* Icons for different event types */
+.event-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+/* Day section headers */
+.day-header {
+    background: linear-gradient(135deg, #ff5722, #ff7043);
+    color: white;
+    padding: 20px;
+    margin: 30px 0 20px 0;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.day-header h2 {
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: 300;
+}
+
+/* Location styling */
+.location-info {
+    background-color: #e8f5e8;
+    border: 1px solid #4caf50;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.location-info a {
+    color: #2e7d32;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.location-info a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .schedule-table {
+        font-size: 0.9em;
+    }
+
+    .schedule-table th,
+    .schedule-table td {
+        padding: 10px 12px;
+    }
+
+    .time-cell {
+        min-width: 100px;
+    }
+
+    .speaker-affiliation {
+        display: block;
+        margin-top: 2px;
+    }
+}
