@@ -52,6 +52,25 @@ nav:
 
 4. Add new content to the `docs/posters.md` file with markdown format. To make the content fancier, you can check the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
+
+## Add an announcement
+
+To add an announcement to the website, you can follow these steps:
+
+1. Open the `overrides/main.html` file.
+2. Locate the `{% block announce %}` section.
+3. Add your announcement content inside the `<div class="announcement">` tags. You can use HTML markup to format the content as needed.
+
+For example, you can add a new announcement like this:
+
+```html
+{% block announce %}
+  <div class="announcement">
+    <p>🔥 <a href="https://x-lab-3d.github.io/csi/2025/participants/#participants">90+ participants</a> from 18 research institutes and 12 companies will attend CSI2025! </p>
+  </div>
+{% endblock %}
+```
+
 ## Publish the changes
 
 Once you are satisfied with your changes, you can push your commits to the remote main branch, then [a github action](./.github/workflows/deploy.yml) will automatically deploy the changes to github pages.
