@@ -9,6 +9,7 @@
 <tr>
 <th>Day</th>
 <th>Time</th>
+<th>Room</th>
 <th>Topic</th>
 </tr>
 </thead>
@@ -16,23 +17,26 @@
 <tr>
 <td><strong><a href="#day-1-computational-immunity">Day 1</a></strong><br><em>Sep. 2nd</em></td>
 <td>14:30-18:00</td>
+<td>Waalbrug B</td>
 <td>🧬 Computational immunity</td>
 </tr>
 <tr>
 <td><strong><a href="#day-2-ai-and-3d-modelling">Day 2</a></strong><br><em>Sep. 3rd</em></td>
 <td>9:30-16:30</td>
+<td>Waalbrug B (main)<br>De Oversteek (parallel talk)</td>
 <td>🤖 Geometric deep learning & 3D modelling + outing</td>
 </tr>
 <tr>
 <td><strong><a href="#day-3-t-cell-immunity-and-therapy">Day 3</a></strong><br><em>Sep. 4th</em></td>
 <td>9:30-17:35</td>
+<td>Auditorium</td>
 <td>🔬 T-cell immunity and therapy</td>
 </tr>
 </tbody>
 </table>
 
 
-## Day 1: Computational Immunity {#day-1-computational-immunity}
+## Day 1: Computational Immunity (Room: Waalbrug B) {#day-1-computational-immunity}
 
 <table class="schedule-table">
 <thead>
@@ -94,7 +98,7 @@
 </table>
 
 
-## Day 2: AI and 3D modelling {#day-2-ai-and-3d-modelling}
+## Day 2: AI and 3D modelling (Room: Waalbrug B) {#day-2-ai-and-3d-modelling}
 
 <table class="schedule-table">
 <thead>
@@ -112,7 +116,7 @@
 <td class="time-cell">10:00-10:45</td>
 <td>
 <span class="event-badge badge-flash">⚡ Parallel Flash Talks</span><strong>Parallel flash talks (Two rooms, 12+3 min/talk):</strong><br><br>
-<strong>🤖 AI on 3D (Room AAA):</strong><br>
+<strong> ⭐ AI on 3D (Room: Waalbrug B):</strong><br>
 <div class="talk-entry">
 <span class="speaker-name">David Frühbuß</span> <span class="speaker-affiliation">(Max Planck)</span><br>
 <div class="talk-title">MHC-Diff: Fast and Accurate Peptide–MHC Structure Prediction via an Equivariant Diffusion Model</div>
@@ -125,7 +129,7 @@
 <span class="speaker-name">Amelia Villegas-Morcillo</span> <span class="speaker-affiliation">(TU Delft)</span><br>
 <div class="talk-title">All-atom and structure-aware generative design of immunoproteins using diffusion models</div>
 </div><br>
-<strong>🔬 3D modelling (Room BBB):</strong><br>
+<strong> 🌟 AI on 3D (Room: De Oversteek):</strong><br>
 <div class="talk-entry">
 <span class="speaker-name">Farzaneh Meimandi parizi</span> <span class="speaker-affiliation">(Radboud)</span><br>
 <div class="talk-title">SwiftTCR: Efficient computational docking protocol of TCRpMHC-I complexes using restricted rotation matrices</div>
@@ -147,7 +151,7 @@
 <tr>
 <td class="time-cell">11:15-12:05</td>
 <td>
-<span class="event-badge badge-invited">🎤 Invited Talks</span><strong>Invited talks (20+5 min/talk):</strong><br><br>
+<span class="event-badge badge-invited">🎤 Invited Talks</span><strong>Invited talks (Room: Waalbrug B, 20+5 min/talk):</strong><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Johannes Textor</span> <span class="speaker-affiliation">(Radboud University)</span><br>
 <div class="talk-title">How T cells coordinate their motion in single lane traffic</div>
@@ -213,7 +217,7 @@
 </tbody>
 </table>
 
-## Day 3: T cell immunity and therapy {#day-3-t-cell-immunity-and-therapy}
+## Day 3: T cell immunity and therapy (Room: Auditorium) {#day-3-t-cell-immunity-and-therapy}
 
 <table class="schedule-table">
 <thead>
