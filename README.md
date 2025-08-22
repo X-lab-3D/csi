@@ -55,9 +55,15 @@ nav:
 
 ## Publish the changes
 
-Once you are satisfied with your changes, you can publish them by following these steps:
+Once you are satisfied with your changes, you can push your commits to the remote main branch, then [a github action](./.github/workflows/deploy.yml) will automatically deploy the changes to github pages.
 
-Push the changes to github pages
+In the github action, `mike` is used to publish the changes:
+
 ```bash
-mike deploy -p -u 2025 latest
+mike deploy --push --update-aliases 2025 latest
+```
+
+If you want to publish a new website for e.g. CSI2026, then you update the action to
+```bash
+mike deploy --push --update-aliases 2026 latest
 ```
