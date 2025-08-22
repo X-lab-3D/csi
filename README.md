@@ -6,25 +6,24 @@ You just need to work on markdown files and MKdocs will render them to proper we
 
 ## Setup
 
+1. Clone the repo
 
-1. Create a python virtual environment and activate it
+```bash
+git clone https://github.com/X-lab-3D/csi/
+
+cd csi
+```
+
+2. Create a python virtual environment and activate it
 
 ```bash
 conda create -n csi python=3.13
 conda activate csi
 ```
 
-2. Install the required packages
+3. Install the required packages
 ```bash
 pip install -r requirements.txt
-```
-
-3. Clone the repo
-
-```
-git clone https://github.com/X-lab-3D/csi/
-
-cd csi
 ```
 
 4. Monitor local changes

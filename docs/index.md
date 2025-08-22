@@ -30,3 +30,7 @@ Administrative Support: **Janneke Hermens**, Radboudumc
 ## Sponsor
 
 [![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width="30%" }](https://www.esciencecenter.nl/)
+
+## Host
+
+[![Radboudumc](images/radboudumc_logo.png){ width="30%" }](https://www.radboudumc.nl/en/research/)

@@ -9,8 +9,8 @@ theme:
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: deep orange
-    accent: indigo
+    primary: blue
+    accent: yellow
   #   toggle:
   #     icon: material/weather-sunny
   #     name: "Switch to dark mode"
