@@ -302,15 +302,16 @@
 <td>
 <span class="event-badge badge-flash">⚡ Flash Talks</span><strong>Flash talks (12+3 min/talk):</strong><br><br>
 <div class="talk-entry">
+<span class="speaker-name">Thomas Kuilman</span> <span class="speaker-affiliation">(AstraZeneca)</span><br>
+<div class="talk-title">Establisment of a TCR Discovery Platform to support building ML models that predict TCR characteristics</div>
+</div><br>
+<div class="talk-entry">
 <span class="speaker-name">Asima Abidi</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
 <div class="talk-title">Characterization of TGF-BRII frameshift neoepitope specific T cell receptors for use in adoptive T cell therapy</div>
 </div><br>
 <div class="talk-entry">
 <span class="speaker-name">Tom Hofland</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
 <div class="talk-title">Retrotransposable elements as novel cancer-specific antigens</div>
-</div><br>
-<div class="talk-entry">
-<span class="speaker-name">Speaker to be confirmed</span><br>
 </div>
 </td>
 </tr>
