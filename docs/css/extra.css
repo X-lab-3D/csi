@@ -124,6 +124,12 @@
     color: white;
 }
 
+.session-chair {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+}
+
 /* Speaker styling */
 .speaker-name {
     font-weight: 600;
