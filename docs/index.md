@@ -27,9 +27,10 @@ Deciphering T-cell receptor (TCR) specificity relies on understanding their thre
 
 Administrative Support: **Janneke Hermens**, Radboudumc
 
-## Sponsor
+## Sponsors
 
-[![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width="30%" }](https://www.esciencecenter.nl/)
+[![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width=30%" }](https://www.esciencecenter.nl/)
+[![Byondis](images/Byondis_Descriptor_Vert_Logo.png){ width="20%" }](https://www.byondis.com/)
 
 ## Host
 

@@ -27,3 +27,12 @@
 ## Organizing committee
 
 ![organizing-committee](images/organizer.png){ width="40%" }
+
+## Sponsors
+
+[![Netherlands eScience Center](images/netherlands-escience-center-logo-RGB.png){ width="30%" }](https://www.esciencecenter.nl/)
+[![Byondis](images/Byondis_Descriptor_Vert_Logo.png){ width="20%" }](https://www.byondis.com/)
+
+## Host
+
+[![Radboudumc](images/radboudumc_logo.png){ width="30%" }](https://www.radboudumc.nl/en/research/)
