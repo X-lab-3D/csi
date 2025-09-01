@@ -36,6 +36,37 @@
 </table>
 
 
+### For online participants
+
+Online streaming will be provided for most talks, and some talks will be skipped due to confidentiality concerns.
+You can join online with **Microsoft Teams**:
+
+<table class="schedule-table day-overview">
+<thead>
+<tr>
+<th>Room</th>
+<th>Meeting Link</th>
+<th>Meeting ID</th>
+<th>Passcode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Main Room (Waalbrug B)</td>
+<td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmM5MDEwMmMtYzYxMC00YTBlLTk0NzktMGMxYzFhN2I4MGNm%40thread.v2/0?context=%7b%22Tid%22%3a%22b208fe69-471e-48c4-8d87-025e9b9a157f%22%2c%22Oid%22%3a%22ce3e9a0f-84e8-4e08-a591-447758fb9ab3%22%7d" target="_blank">🔗 Join Meeting</a></td>
+<td><code>362 972 111 677 4</code></td>
+<td><code>Zc9QF367</code></td>
+</tr>
+<tr>
+<td>Parallel Room (De Oversteek)</td>
+<td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTU2YTUxZGMtNGIwZC00YTM3LWEzMTQtNjdjYjdjZTZlNmNl%40thread.v2/0?context=%7b%22Tid%22%3a%22b208fe69-471e-48c4-8d87-025e9b9a157f%22%2c%22Oid%22%3a%22ce3e9a0f-84e8-4e08-a591-447758fb9ab3%22%7d" target="_blank">🔗 Join Meeting</a></td>
+<td><code>341 923 382 985 9</code></td>
+<td><code>GS3pd38m</code></td>
+</tr>
+</tbody>
+</table>
+
+
 ## Day 1: Computational Immunity (Room: Waalbrug B) {#day-1-computational-immunity}
 
 <table class="schedule-table">
