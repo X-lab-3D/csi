@@ -68,7 +68,7 @@
 <div class="talk-title">Computer-aided Molecular Engineering</div>
 </div><br>
 <div class="talk-entry">
-<span class="speaker-name">Li Xue</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
+<span class="speaker-name">Li Xue, Jan Aarts</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
 <div class="talk-title">AI-boosted 3D modelling for cancer immunotherapy</div>
 </div>
 </td>
@@ -119,10 +119,10 @@
 <td>
 <span class="event-badge badge-flash">⚡ Parallel Flash Talks</span><strong>Parallel flash talks (Two rooms, 12+3 min/talk):</strong><br><br>
 <strong> ⭐ AI on 3D (Room: Waalbrug B):</strong><br>
-<span class="session-chair">Session chairs: Erik Bekkers, Cong Liu</span><br><br>
+<span class="session-chair">Session chairs: Erik Bekkers, Li Xue</span><br><br>
 <div class="talk-entry">
-<span class="speaker-name">David Frühbuß</span> <span class="speaker-affiliation">(Max Planck)</span><br>
-<div class="talk-title">MHC-Diff: Fast and Accurate Peptide–MHC Structure Prediction via an Equivariant Diffusion Model</div>
+<span class="speaker-name">Riza Özçelik</span> <span class="speaker-affiliation">(TU/e)</span><br>
+<div class="talk-title">Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic</div>
 </div><br>
 <div class="talk-entry">
 <span class="speaker-name">Rens den Braber</span> <span class="speaker-affiliation">(UvA)</span><br>
@@ -133,19 +133,20 @@
 <div class="talk-title">All-atom and structure-aware generative design of immunoproteins using diffusion models</div>
 </div><br>
 <strong> 🌟 AI on 3D (Room: De Oversteek):</strong><br>
-<span class="session-chair">Session chair: Daniel Rademaker</span><br><br>
+<span class="session-chair">Session chair: Daniel Rademaker, Danielle Diepenbroek</span><br><br>
 <div class="talk-entry">
-<span class="speaker-name">Farzaneh Meimandi parizi</span> <span class="speaker-affiliation">(Radboud)</span><br>
+<span class="speaker-name">Dario Marzella</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
+<div class="talk-title">Using 3D structure and geometric deep learning to improve epitope predictions
+</div>
+</div><br>
+<div class="talk-entry">
+<span class="speaker-name">Farzaneh Meimandi Parizi</span> <span class="speaker-affiliation">(Radboud)</span><br>
 <div class="talk-title">SwiftTCR: Efficient computational docking protocol of TCRpMHC-I complexes using restricted rotation matrices</div>
 </div><br>
 <div class="talk-entry">
-<span class="speaker-name">Dario Marzella</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
-<div class="talk-title">Improving peptide-MHC binding prediction through structure-based AI models</div>
+<span class="speaker-name">David Frühbuß</span> <span class="speaker-affiliation">(Max Planck)</span><br>
+<div class="talk-title">MHC-Diff: Fast and Accurate Peptide–MHC Structure Prediction via an Equivariant Diffusion Model</div>
 </div><br>
-<div class="talk-entry">
-<span class="speaker-name">Riza Özçelik</span> <span class="speaker-affiliation">(TU/e)</span><br>
-<div class="talk-title">Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic</div>
-</div>
 </td>
 </tr>
 <tr>
@@ -174,20 +175,20 @@
 <tr>
 <td class="time-cell">13:30-14:45</td>
 <td>
-<span class="event-badge badge-invited">🎤 Invited Talks </span><strong>Geometric deep learning (20+5 min/talk):</strong><br>
-<span class="session-chair">Session chair: Li Xue</span><br><br>
+<span class="event-badge badge-invited">🎤 Invited Talks </span><strong>Geometric deep learning (30+5 min/talk):</strong><br>
+<span class="session-chair">Session chair: Li Xue, David Frühbuß </span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Erik Bekkers</span> <span class="speaker-affiliation">(UvA)</span><br>
 <div class="talk-title">Equivariance and weight-sharing in neural networks without specialized modules</div>
 </div><br>
 <div class="talk-entry">
-<span class="speaker-name">Artem Moskalev</span> <span class="speaker-affiliation">(Johnson&Johnson)</span><br>
-<div class="talk-title">Language and Geometry models for RNA</div>
+<span class="speaker-name">Artem Moskalev</span> <span class="speaker-affiliation">(Johnson&Johnson)</span>
+<!-- <div class="talk-title">Language and Geometry models for RNA</div>
 </div><br>
 <div class="talk-entry">
 <span class="speaker-name">Cong Liu</span> <span class="speaker-affiliation">(UvA)</span><br>
 <div class="talk-title">Geometric Modelling with Clifford Algebra for Molecules and Proteins</div>
-</div>
+</div> -->
 </td>
 </tr>
 <tr>
@@ -215,7 +216,9 @@
 </tr>
 <tr>
 <td class="time-cell">17:15-19:15</td>
-<td><span class="event-badge badge-social">🚶‍♀️ Outing</span><strong>Outing - Historical walk of Nijmegen (starting point: Central Station Nijmegen)</strong></td>
+<td><span class="event-badge badge-social">🚶‍♀️ Outing</span><strong>Outing - Historical walk of Nijmegen (starting point: Central Station Nijmegen)</strong><br>
+<span class="session-chair">Sponsored by Byondis</span>
+</td>
 </tr>
 <tr>
 <td class="time-cell">19:30</td>
@@ -242,7 +245,7 @@
 <td class="time-cell">10:00-11:30</td>
 <td>
 <span class="event-badge badge-invited">🎤 Invited Talks</span><strong>Invited speakers (25+5 min/talk):</strong><br>
-<span class="session-chair">Session chairs: Mark Gorris, to be confirmed</span><br><br>
+<span class="session-chair">Session chairs: Mark Gorris, Asima Abidi</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Heather Melichar</span> <span class="speaker-affiliation">(McGill)</span><br>
 <div class="talk-title">Predicting T cell responses from intracellular calcium dynamics</div>
@@ -265,7 +268,7 @@
 <td class="time-cell">13:00-14:30</td>
 <td>
 <span class="event-badge badge-invited">🎤 Invited Talks</span><strong>Invited speakers (25+5 min/talk):</strong><br>
-<span class="session-chair">Session chairs: to be confirmed</span><br><br>
+<span class="session-chair">Session chairs: Heather Melichar, Sonja Buschow</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Mark Gorris</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
 <div class="talk-title">Induction of Frameshift-specific T cells through Dendritic Cell Vaccination in Lynch Syndrome and CMMRD</div>
@@ -288,7 +291,7 @@
 <td class="time-cell">15:00-16:15</td>
 <td>
 <span class="event-badge badge-invited">🎤 Invited Talks</span><strong>Invited speakers (20+5 min/talk):</strong><br>
-<span class="session-chair">Session chairs: to be confirmed</span><br><br>
+<span class="session-chair">Session chairs: Farzaneh Meimandi Parizi, Mike Claassens</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Alexandre Bonvin</span> <span class="speaker-affiliation">(Utrecht University)</span><br>
 <div class="talk-title">AI and physics-based integrative modelling of immune complexes</div>
@@ -311,7 +314,7 @@
 <td class="time-cell">16:45-17:30</td>
 <td>
 <span class="event-badge badge-flash">⚡ Flash Talks</span><strong>Flash talks (12+3 min/talk):</strong><br>
-<span class="session-chair">Session chairs: to be confirmed</span><br><br>
+<span class="session-chair">Session chairs: Raquel Cuella Martin, Gerty Schreibelt</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Thomas Kuilman</span> <span class="speaker-affiliation">(AstraZeneca)</span><br>
 <div class="talk-title">Establisment of a TCR Discovery Platform to support building ML models that predict TCR characteristics</div>
