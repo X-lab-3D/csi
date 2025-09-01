@@ -132,7 +132,7 @@
 <span class="speaker-name">Amelia Villegas-Morcillo</span> <span class="speaker-affiliation">(TU Delft)</span><br>
 <div class="talk-title">All-atom and structure-aware generative design of immunoproteins using diffusion models</div>
 </div><br>
-<strong> 🌟 AI on 3D (Room: De Oversteek):</strong><br>
+<strong> 🌟 AI for cancer immunotherapies (Room: De Oversteek):</strong><br>
 <span class="session-chair">Session chair: Daniel Rademaker, Danielle Diepenbroek</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Dario Marzella</span> <span class="speaker-affiliation">(Radboudumc)</span><br>
