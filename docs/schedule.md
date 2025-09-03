@@ -119,7 +119,7 @@ Sorry that we cannot provide online streaming for this event due to IT and confi
 <td>
 <span class="event-badge badge-flash">⚡ Parallel Flash Talks</span><strong>Parallel flash talks (Two rooms, 12+3 min/talk):</strong><br><br>
 <strong> ⭐ AI on 3D (Room: Waalbrug B):</strong><br>
-<span class="session-chair">Session chairs: Erik Bekkers, Li Xue</span><br><br>
+<span class="session-chair">Session chairs: Erik Bekkers, Cunliang Geng</span><br><br>
 <div class="talk-entry">
 <span class="speaker-name">Riza Özçelik</span> <span class="speaker-affiliation">(TU/e)</span><br>
 <div class="talk-title">Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic</div>
