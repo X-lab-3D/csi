@@ -183,6 +183,7 @@ Sorry that we cannot provide online streaming for this event due to IT and confi
 </div><br>
 <div class="talk-entry">
 <span class="speaker-name">Artem Moskalev</span> <span class="speaker-affiliation">(Johnson&Johnson)</span>
+<div class="talk-title">Language and Geometry models for RNA</div>
 <!-- <div class="talk-title">Language and Geometry models for RNA</div>
 </div><br>
 <div class="talk-entry">
