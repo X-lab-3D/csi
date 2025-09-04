@@ -56,6 +56,7 @@ nav:
 - About: index.md
 - Schedule: schedule.md
 - Participants: participants.md
+- Related Announcements: announcements.md
 
 markdown_extensions:
 # https://python-markdown.github.io/extensions/
